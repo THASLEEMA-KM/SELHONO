@@ -1,0 +1,24 @@
+.servicecard
+{
+    color: black;
+
+}
+.servicecard:hover
+{
+    color: #C76904;
+    cursor:pointer;
+    background-color: #F9F9F9;
+    
+}
+.servicecard :hover a
+{
+    color: #C76904;
+
+  
+}
+.workhead
+{
+    /* float: right; */
+    color: #C76904;
+    font-family: "DM Serif Display", serif; 
+}

@@ -1,0 +1,16 @@
+.teamimage:hover
+{
+    transform: scale3d(1.1,1.1,1.1);
+    cursor: pointer;
+    
+}
+.ourteamhead
+{
+    color: black;
+    font-family: "DM Serif Display", serif;
+}
+.ourteamsubhead
+{
+    color: #4D5053;
+    font-family: "Jost", sans-serif;  
+}

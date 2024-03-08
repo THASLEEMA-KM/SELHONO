@@ -1,0 +1,16 @@
+.projectbutlink
+{
+    text-decoration: none;
+    color: black;
+}
+.projectbutlink:hover
+{
+    color: white;
+}
+.projectbut
+{
+background-color: #fff;
+}
+.projectbut:hover{
+    background-color: #fff;
+}

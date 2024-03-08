@@ -1,0 +1,17 @@
+.contacticons
+{
+    color: black;
+    font-family: "Jost", sans-serif; 
+}
+.fa-regular , .bx
+{
+    color: #CDA274;
+}
+input[type=text] 
+{
+    font-family: "Jost", sans-serif; 
+}
+textarea
+{
+    font-family: "Jost", sans-serif; 
+}

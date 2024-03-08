@@ -1,0 +1,222 @@
+.logo
+{
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+}
+.list
+{
+    font-family: "Jost", sans-serif;
+    color: black;
+}
+
+.list:hover .links
+{
+    color: #CDA274;
+}
+/* .links
+{
+    font-family: "Jost", sans-serif;
+    color: black;
+    text-decoration: none;
+}
+
+.links:hover
+{
+    color: #CDA274;
+    
+} */
+.homehead1
+{
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+
+}
+.homesubhead
+{
+    font-family: "Jost", sans-serif;  
+    font-weight: 600;
+}
+.homebutton
+{
+    background-color:#CDA274;
+}
+.homebuttons:hover
+{
+    transform: scale3d(1.1,1.1,1.1);
+}
+.buttontext
+{
+    text-decoration: none;
+    font-family: "Jost", sans-serif; 
+    color: white;
+}
+/* cards */
+.cardhead
+{
+    font-family: "DM Serif Display", serif;
+}
+.cardcont
+{
+    font-family: "Jost", sans-serif; 
+}
+.cardbutt
+{
+    font-family: "Jost", sans-serif; 
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+}
+/* section3 */
+.maindiv1
+{
+    position: relative;
+}
+.subdiv
+{
+    position: absolute;
+    top: 90px;
+    bottom: 10px;
+}
+.call
+{
+    width: 70px;
+    height: 70px;
+}
+.number
+{
+    font-family: "Jost", sans-serif; 
+    font-weight: bold;
+    color: white;
+}
+.projhead
+{
+    font-family: "DM Serif Display", serif;
+}
+.projcont
+{
+    font-family: "Jost", sans-serif; 
+    color: grey;
+}
+/*  */
+.aboutdiv
+{
+    /* background-color: #D8A876; */
+    background-image: url("./IMAGES/aboutBackground.png");
+    height: 85vh;
+}
+/*  */
+.imagehead
+{
+    color: black;
+    font-family: "DM Serif Display", serif;
+}
+.imagesubhead
+{
+    font-family: "Jost", sans-serif; 
+    color: grey;
+}
+.imagediv
+{
+    display: flex;
+    
+}
+.imagedivbutton
+{
+    padding: 25px 0px 0px 200px;
+    position: sticky;
+   
+}
+/* .projbutton
+{
+    border-radius: 50%;
+    border: 1px solid;
+} */
+.seccard
+{
+   
+   background-color: #fff;
+}
+.seccard:hover
+{
+    /* transform: scale3d(1.1,1.1,1.1); */
+   background-color: #F4F0EC;
+}
+.buttondiv
+{
+    width: 50px;
+    height: 50px;
+    /* border: 1px solid; */
+    border-radius: 50%;
+    background-color: #CDA274;
+}
+.buttondiv:hover{
+    background-color: #C76904;
+}
+.cardbuttons
+{
+    color: #CDA274;
+    text-decoration: none;
+}
+.cardbuttons:hover
+{
+    color: #C76904;
+}
+
+.cardmainhead
+{
+    color: black;
+    font-family: "DM Serif Display", serif; 
+}
+.cardsubhead
+{
+    color: #4D5053;
+    font-family: "Jost", sans-serif;   
+}
+.contacthead
+{
+    color: white;
+    font-family: "DM Serif Display", serif; 
+}
+.contactcont
+{
+    color: white;
+    font-family: "Jost", sans-serif;
+}
+.contactbutton:hover
+{
+    transform: scale3d(1.1,1.1,1.1);
+   
+}
+/* footer */
+.footerlogohead
+{
+    color: black;
+    font-family: "DM Serif Display", serif;   
+}
+.footerlogocont
+{
+    color: gray;
+    font-family: "Jost", sans-serif; 
+}
+.icons
+{
+    color: black;
+    text-decoration: none;
+}
+.footerlinkhead
+{
+    color: black;
+    font-family: "DM Serif Display", serif; 
+}
+.footerlinks
+{
+    color: gray;
+    font-family: "Jost", sans-serif; 
+    text-decoration: none; 
+}
+.copyright
+{
+    color: gray;
+    font-family: "Jost", sans-serif; 
+    text-decoration: none; 
+}
